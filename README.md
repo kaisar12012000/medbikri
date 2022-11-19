@@ -2,9 +2,9 @@
 Simple mobile app built for SpaceX launchpads
 
 ## Table of content
-*[General overview](#general-overview)
-*[Tech Stack](#tech-stack)
-*[Purpose and Working](#purpose-and-working)
+* [General overview](#general-overview)
+* [Tech Stack](#tech-stack)
+* [Purpose and Working](#purpose-and-working)
 
 ## General overview
 The project is a mobile application developed using javascript framework for frontend and a REST API for backend. The basic idea of the project is to fetch lauchpad details and mission details carried from each launchpad owned by SpaceX.
